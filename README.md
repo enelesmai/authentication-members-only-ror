@@ -1,24 +1,37 @@
-# README
+# members-only - Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> Using the Devise gem to have a first approach at authentication in rails.
 
-Things you may want to cover:
+## Models created
 
-* Ruby version
+- User
+- Post
 
-* System dependencies
+## Built With
 
-* Configuration
+- Ruby 2.5.1
+- Rails 6.0.2
 
-* Database creation
+## Authors
 
-* Database initialization
+👤 **Sebastian Gil Rodriguez**
 
-* How to run the test suite
+- Github: [@sebGilR](https://github.com/sebGilR)
+- Twitter: [@sebGilR](https://twitter.com/sebGilR)
+- Linkedin: [sebastiangilrodriguez](https://www.linkedin.com/in/sebastiangilrodriguez)
 
-* Services (job queues, cache servers, search engines, etc.)
+👤 **Xochitl Selene Flores Perez**
 
-* Deployment instructions
+- Github: [@enelesmai](https://github.com/enelesmai)
+- Twitter: [@enelesmai](https://twitter.com/enelesmai)
+- Linkedin: [xochitlselene](https://www.linkedin.com/in/xochitlselene)
 
-* ...
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
