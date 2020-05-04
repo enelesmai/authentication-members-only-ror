@@ -1,9 +1,9 @@
 module PostsHelper
     def post_author(post)
         if user_signed_in?
-            return post.user.name
+            post.user.name
         else
-            return "Authenticate to view author"
+            "Authenticate to view author"
         end
     end
 end

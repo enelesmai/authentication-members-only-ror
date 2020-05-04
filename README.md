@@ -12,6 +12,25 @@
 - Ruby 2.5.1
 - Rails 6.0.2
 
+## Usage
+
+You can clone or download this repo (you need ruby installed in your computer).
+
+    git clone git@github.com:enelesmai/Ruby-Scraper.git
+
+Move to the app directory
+
+    cd Ruby-scraper
+
+And run the next instruction to get the gems that are needed for this project
+    
+    bundle install
+
+## Screenshot
+
+![image](https://user-images.githubusercontent.com/5160907/81008694-f771a180-8e18-11ea-901a-c2ec4be49735.png)
+
+
 ## Authors
 
 👤 **Sebastian Gil Rodriguez**
