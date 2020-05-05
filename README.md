@@ -20,7 +20,7 @@
 
 ## Usage
 
-This is the main page, you will be able to create posts until you are logged in.
+This is the main page, you will not be able to create posts until you are logged in.
 ![image](https://user-images.githubusercontent.com/5160907/81008970-68b15480-8e19-11ea-9b87-3d7d4f4fde7e.png)
 
 Log in to the application as shown in the image below:
